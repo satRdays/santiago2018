@@ -87,7 +87,7 @@ googleAnalytics = ""
   [params.services]
     enable = true
     title = "Acerca de"
-    subtitle = "Detalles acerca la conferencia"
+    subtitle = "Detalles acerca de la conferencia"
 
     [[params.services.row]]
 
@@ -105,7 +105,7 @@ googleAnalytics = ""
 
     [[params.services.row.list]]
       icon = "fa-graduation-cap"
-      title = "Conocimiento"
+      title = "Aprendizaje"
       description = "Aprende de la comunidad y de personas expertas"
       url = "#"
 
@@ -260,9 +260,7 @@ googleAnalytics = ""
       name = "Gabriela Sandoval"
       position = "Co-organizadora"
       social = [
-        ["fa-twitter", "https://twitter.com/GabySandovalM"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/GabySandovalM"]
       ]
 
       [[params.team.members]]
@@ -289,13 +287,13 @@ googleAnalytics = ""
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
-      logo = "datauc.jpg"
+      logo = ""
       name = "Data UC"
       link = "#"
 
 
     [[params.clients]]
-      logo = "metricarts.jpg"
+      logo = ""
       name = "MetricArts"
       link = "#"
 
@@ -318,7 +316,7 @@ googleAnalytics = ""
   [params.contact]
     enable = true
     title = "Contáctanos"
-    subtitle  = "¿Dudas? ¿Consulta?."
+    subtitle  = "¿Dudas? ¿Consultas?"
     buttonText = "Enviar mensaje"
     # netlify = true
 
