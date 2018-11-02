@@ -1,0 +1,21 @@
+{{ "<!-- Diversity -->" | safeHTML }}
+<section id="diversity" {{ if .Site.Params.diversity.bg }}
+class="bg-light-gray"
+{{ end }}>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ with .Site.Params.diversity.title }}{{ . | markdownify }}{{ end }}</h2>
+      </div>
+      <div>
+        <p>
+        satRday busca ofrecer una conferencia inclusiva y libre de acoso para tod*s, independiente de su género, orientación sexual, situación de discapacidad, apariencia física, edad, etnia, situación socioeconómica, afiliación política o religiosa (o falta de) u opciones tecnológicas. 
+        No se aceptará ninguna forma de acoso entre quienes participan de la conferencia. Las insinuaciones e imágenes de tipo sexual no son apropiadas para este evento, incluidas las presentaciones. 
+        Cualquier inclumplimiento de estas normas puede implicar una advertencia o la expulsión de la conferencia (sin reembolso) a criterio del equipo organizador local y/o global.
+        
+        Puedes encontrar nuestro código de conducta y política antiacoso <a href="https://knowledgebase.satrdays.org/diversity/#code-of-conduct">aquí</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
