@@ -246,7 +246,7 @@ googleAnalytics = ""
       ]
 
     [[params.team.members]]
-      img = "patriocio-cofre.jpeg"
+      img = "patricio-cofre.jpeg"
       name = "Patricio Cofré"
       position = "Co-organizador"
       social = [
