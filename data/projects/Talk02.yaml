@@ -1,0 +1,13 @@
+modalID: 2
+title: "Charla 2"
+subtitle: "Second Subtitle"
+date: 2018-12-15
+startsAt: 09:30
+endsAt: 10:00
+img: roundicons.png
+preview: faceholder.png
+client: Speaker Two
+clientLink: "#"
+category: Category 2
+description: "Describe 2"
+talk: true

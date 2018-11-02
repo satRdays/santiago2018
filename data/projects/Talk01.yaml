@@ -1,0 +1,13 @@
+modalID: 1
+title: "Charla 1"
+subtitle: "First Subtitle"
+date: 2018-12-15
+startsAt: 09:00
+endsAt: 09:30
+img: roundicons.png
+preview: faceholder.png
+client: Speaker One
+clientLink: "#"
+category: Category 1
+description: "Describe 1"
+talk: true
