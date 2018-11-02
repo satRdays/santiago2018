@@ -1,9 +1,9 @@
 modalID: 2
-title: "Second Talk"
+title: "Charla 2"
 subtitle: "Second Subtitle"
-date: 1970-01-01
-startsAt: 00:01
-endsAt: 00:02
+date: 2018-12-15
+startsAt: 09:30
+endsAt: 10:00
 img: roundicons.png
 preview: faceholder.png
 client: Speaker Two
