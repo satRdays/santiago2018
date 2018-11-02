@@ -1,0 +1,19 @@
+{{ "<!-- eventbrite -->" | safeHTML }}
+<section id="eventbrite" {{ if .Site.Params.eventbrite.bg }}
+class="bg-light-gray"
+{{ end }}>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ with .Site.Params.eventbrite.title }}{{ . | markdownify }}{{ end }}</h2>
+        <h3 class="section-heading">
+             Tipos de entrada
+        </h3>
+        <p>
+          Es posible comprar la entrada para solo para el evento del sábado 15, o para el evento del sábado 15 + uno de los workshops del viernes 14 en la tarde. La modalidad [1 + 1] está pensada para quienes en este momento están en la posición de poder comprar una entrada un poco más cara y financiar que estudiantes o personas que se encuentran sin trabajo en este momento pueda asistir de forma gratuita al evento.
+        </p>
+      </div>
+    </div>
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid={{ .Site.Params.eventbrite.eid }}&ref=etckt" frameborder="0" height="575" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
+  </div>
+</section>
