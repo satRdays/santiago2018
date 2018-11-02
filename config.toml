@@ -227,7 +227,7 @@ googleAnalytics = ""
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "riva-quiroga.jpg"
       name = "Riva Quiroga"
       position = "Co-organizadora"
       #reportsTo = ""
@@ -246,7 +246,7 @@ googleAnalytics = ""
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "patriocio-cofre.jpeg"
       name = "Patricio Cofré"
       position = "Co-organizador"
       social = [
@@ -256,7 +256,7 @@ googleAnalytics = ""
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "gaby-sandoval.jpeg"
       name = "Gabriela Sandoval"
       position = "Co-organizadora"
       social = [
@@ -289,13 +289,13 @@ googleAnalytics = ""
     [[params.clients]]
       logo = ""
       name = "Data UC"
-      link = "#"
+      link = "http://www.datauc.cl/"
 
 
     [[params.clients]]
       logo = ""
       name = "MetricArts"
-      link = "#"
+      link = "https://metricarts.com/"
 
     [[params.clients]]
       logo = ""
