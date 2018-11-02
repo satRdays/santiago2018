@@ -118,7 +118,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Asequible"
-      description = "Entre $7000 y $14000 + opción de becas"
+      description = "Entre $7000 y $15000 + opción de becas"
       url = "#"
 
     [[params.services.row.list]]
@@ -146,7 +146,7 @@ googleAnalytics = ""
     bg = true
     CfSpage = ""
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "1 de octubre y 5 de noviembre"
+    #dates = "1 de octubre y 5 de noviembre"
   # Talk [Portfolio] section
   [params.portfolio]
     enable = true
@@ -181,25 +181,25 @@ googleAnalytics = ""
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
-      img = ""
+      img = "1.png"
       date = "Septiembre 2018"
       title = "Anuncio inicial"
       description = "¡Se viene satRday Santiago!"
 
     [[params.about.events]]
-      img = ""
-      date = "5 de noviembre de 2018"
-      title = "Cierre convocatoria"
-      description = "Cierre del envío de propuestas y de la postulación a becas de diversidad"
-
-    [[params.about.events]]
-      img = ""
-      date = "20 de noviembre de 2018"
-      title = "Notificación aceptación de propuestas y becas"
+      img = "2.png"
+      date = "9 de noviembre de 2018"
+      title = "Cierre convocatoria para presentaciones orales"
       description = ""
 
     [[params.about.events]]
-      img = ""
+      img = "3.png"
+      date = "20 de noviembre de 2018"
+      title = "Notificación aceptación de propuestas"
+      description = ""
+
+    [[params.about.events]]
+      img = "4.png"
       date = "25 de noviembre de 2018"
       title = "Fin preventa"
       description = ""
@@ -264,7 +264,7 @@ googleAnalytics = ""
       ]
 
       [[params.team.members]]
-        img = "faceholder.png"
+        img = "joshua-kunst.jpeg"
         name = "Joshua Kunst"
         position = "Co-organizador"
         social = [
@@ -287,13 +287,13 @@ googleAnalytics = ""
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
-      logo = ""
+      logo = "datauc.png"
       name = "Data UC"
       link = "http://www.datauc.cl/"
 
 
     [[params.clients]]
-      logo = ""
+      logo = "metricarts.png"
       name = "MetricArts"
       link = "https://metricarts.com/"
 
