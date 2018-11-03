@@ -213,12 +213,12 @@ googleAnalytics = ""
 
   # Team section
   [params.team]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
     title = "Equipo"
     #subtitle = "El equipo detrás de satRday Santiago"
-    bg = false
+    bg = true
     description = ""
     speakers = "Speakers (próximamente)"
 
