@@ -1,13 +1,13 @@
 modalID: 1
-title: "Charla 1"
-subtitle: "First Subtitle"
-date: 2018-12-15
-startsAt: 09:00
-endsAt: 09:30
-img: roundicons.png
-preview: 
-client: Speaker por confirmar
+title: "Generación de documentos con RMarkdown"
+subtitle: ""
+date: 2015-12-15
+startsAt: 15:00
+endsAt: 17:00
+img:
+preview: rmarkdown.png
+client: Gabriela Sandoval
 clientLink: "#"
-category: Category 1
-description: "Describe 1"
+category: Category 2
+description: ""
 talk: true

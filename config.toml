@@ -133,7 +133,7 @@ googleAnalytics = ""
     title = "Registro"
     subtitle = "Modalidades de pago"
     bg = true
-    eid = "51497134315"
+    eid = ""
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB
       # Follow instructions to discover your 'Website Integration' embeddable iframe
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
@@ -154,7 +154,7 @@ googleAnalytics = ""
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
-    title = "Presentaciones: pŕoximamente"
+    title = "Workshops viernes 14"
     #subtitle = "Who's saying what"
     bg = true
 
@@ -166,16 +166,16 @@ googleAnalytics = ""
 
   # Schedule section
   [params.schedule]
-    enable = true
+    enable = false
     title = "Programa: próximamente"
-    bg = true
+    bg = false
 
   # Important Dates [About] section
   [params.about]
     enable = true
     title = "Fechas importantes"
     subtitle = "¡Prepárate!"
-    endpoint = "Diciembre 15 satRday Santiago"
+    endpoint = "satRday Santiago"
 
     # The events will be listed from the top to the bottom.
     # All images are stored under 'static/img/about'.
@@ -213,7 +213,7 @@ googleAnalytics = ""
 
   # Team section
   [params.team]
-    enable = true
+    enable = false
     # Possibility to center items
     #center = true
     title = "Equipo"
