@@ -1,13 +1,13 @@
 modalID: 2
-title: "Charla 2"
-subtitle: "Second Subtitle"
-date: 2018-12-15
-startsAt: 09:30
-endsAt: 10:00
-img: roundicons.png
-preview: 
-client: Speaker por confirmar
+title: "High-Performance Computing con R"
+subtitle: "First Subtitle"
+date: 2015-12-14
+startsAt: 15:00
+endsAt: 17:00
+#img: roundicons.png
+preview: faceholder.png
+client: George Vega Yon
 clientLink: "#"
-category: Category 2
-description: "Describe 2"
+category: Category 1
+description: ""
 talk: true
