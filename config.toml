@@ -100,7 +100,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Workshops"
-      description = "Sesión de talleres prácticos el viernes 14 de diciembre"
+      description = "Talleres prácticos el viernes 14 por la tarde"
       url = "#"
 
     [[params.services.row.list]]
