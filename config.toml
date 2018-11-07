@@ -100,7 +100,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Workshops"
-      description = "Talleres prácticos el viernes 14 por la tarde"
+      description = "Viernes 14 por la tarde en el Campus San Joaquín UC"
       url = "#"
 
     [[params.services.row.list]]
@@ -132,7 +132,7 @@ googleAnalytics = ""
     enable = true
     title = "Registro"
     subtitle = "Modalidades de pago"
-    bg = true
+    bg = false
     eid = ""
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB
       # Follow instructions to discover your 'Website Integration' embeddable iframe
@@ -207,9 +207,18 @@ googleAnalytics = ""
   # Location section
   [params.location]
     enable = true
-    title = "Lugar: Casa Central UC"
+    title = "Evento sábado 15: Casa Central UC"
     bg = true
     iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d832.3321527812697!2d-70.64262794328197!3d-33.44074419024059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c59e8c508d1f%3A0xd7d97f8d3bd83116!2sPontificia+Universidad+Cat%C3%B3lica+de+Chile!5e0!3m2!1ses-419!2scl!4v1538614692663"
+
+  # Location section
+  [params.location2]
+    enable = true
+    title = "Workshops viernes 14: Campus San Joaquín UC"
+    #subtitle = ""
+    bg = true
+    iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4705.188445624608!2d-70.61331925950356!3d-33.49953877733271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662d00f00d60313%3A0x28e4f8043c46c41f!2sCampus+San+Joaqu%C3%ADn%2C+Pontificia+Universidad+Cat%C3%B3lica+de+Chile!5e0!3m2!1ses!2scl!4v1541598098374"
+
 
   # Team section
   [params.team]
@@ -218,7 +227,7 @@ googleAnalytics = ""
     #center = true
     title = "Equipo"
     #subtitle = "El equipo detrás de satRday Santiago"
-    bg = true
+    bg = false
     description = ""
     speakers = "Speakers (próximamente)"
 
