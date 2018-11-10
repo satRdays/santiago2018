@@ -307,8 +307,8 @@ googleAnalytics = ""
       link = "https://metricarts.com/"
 
     [[params.clients]]
-      logo = ""
-      link = "#"
+      logo = "microsoft.jpeg"
+      link = "https://www.microsoft.com/es-cl"
 
     [[params.clients]]
       logo = ""
