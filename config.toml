@@ -147,6 +147,13 @@ googleAnalytics = ""
     CfSpage = ""
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
     #dates = "1 de octubre y 5 de noviembre"
+
+  [params.becas]
+    enable = true
+    title = "Postulación a becas de diversidad"
+    bg = false
+    CfSpage = ""
+
   # Talk [Portfolio] section
   [params.portfolio]
     enable = true
@@ -188,14 +195,14 @@ googleAnalytics = ""
 
     [[params.about.events]]
       img = "2.png"
-      date = "9 de noviembre de 2018"
-      title = "Cierre convocatoria para presentaciones orales"
+      date = "19 de noviembre de 2018"
+      title = "Cierre convocatoria para presentaciones orales y postulación a becas"
       description = ""
 
     [[params.about.events]]
       img = "3.png"
-      date = "20 de noviembre de 2018"
-      title = "Notificación aceptación de propuestas"
+      date = "23 de noviembre de 2018"
+      title = "Notificación aceptación de propuestas y resultados postulación becas"
       description = ""
 
     [[params.about.events]]

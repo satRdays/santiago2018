@@ -27,6 +27,10 @@
       {{ partial "callforpapers.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.becas.enable }}
+      {{ partial "becas.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.portfolio.enable }}
       {{ partial "portfolio.html" . }}
     {{ end }}
