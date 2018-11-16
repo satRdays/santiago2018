@@ -87,7 +87,7 @@ googleAnalytics = ""
   [params.services]
     enable = true
     title = "Acerca de"
-    subtitle = "Detalles acerca de la conferencia"
+    subtitle = "Los SatRdays son conferencias sobre R que se desarrollan un día sábado. Se realizan en distintas ciudades alrededor del mundo  para fomentar el desarrollo de la comunidad local de R. Cuentan con el apoyo del RConsortium y buscan ser accesibles y diversas."
 
     [[params.services.row]]
 
