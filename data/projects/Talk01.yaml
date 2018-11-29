@@ -9,5 +9,6 @@ preview: rmarkdown.png
 client: Gabriela Sandoval
 clientLink: "#"
 category: Category 2
-description: ""
+description: "Si alguna vez hiciste una presentación y te diste cuenta que colocaste el gráfico equivocado, no recuerdas las funciones y/o argumentos que usaste, o simplemente debes generar un reporte cada cierto tiempo y quieres hacer automático tu trabajo, asiste a este taller para conocer más sobre RMarkdown, una herramienta que nos permite generar documentos automáticos, mostrar el código empleado en nuestros análisis para facilitar su presentación y hacer reproducible nuestros estudios, ya sea en el ámbito laboral o en investigación.
+Iniciaremos el taller comprendiendo cómo funciona esta herramienta y las posibilidades que nos proporciona, y elaboraremos una presentación que abarca las necesidades más comunes (inserción de gráficos, texto, tablas y código) con un ejemplo práctico. "
 talk: true

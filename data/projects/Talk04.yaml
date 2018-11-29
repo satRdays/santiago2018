@@ -1,5 +1,5 @@
 modalID: 4
-title: "Shiny"
+title: "Creación de aplicaciones interactivas con Shiny"
 subtitle: ""
 date: 2015-12-14
 startsAt: 15:00
@@ -9,5 +9,5 @@ preview: shiny.png
 client: Joshua Kunst
 clientLink: "#"
 category: Category 1
-description: ""
+description: "Este taller tiene como objetivo introducir a sus participantes en la creacion de aplicaciones interactivas usando Shiny, un framework web para R. Shiny es una alternativa para comunicar nuestros análisis dándole al usuario la posibilidad de interactuar con los resultados, o simplemente para contar una historia de interés. Comenzaremos revisando la estructura de una aplicación Shiny y cómo funciona, para luego ver cómo interactuan inputs y outputs. También estudiaremos cómo modificar la apariencia y el estilo de nuestra aplicación para que sea única, entro otros tópicos."
 talk: true
