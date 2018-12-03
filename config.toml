@@ -141,7 +141,7 @@ googleAnalytics = ""
 
   # Call for papers section
   [params.callforpapers]
-    enable = true
+    enable = false
     title = "Envío de propuestas"
     bg = true
     CfSpage = ""
@@ -149,7 +149,7 @@ googleAnalytics = ""
     #dates = "1 de octubre y 5 de noviembre"
 
   [params.becas]
-    enable = true
+    enable = false
     title = "Postulación a becas de diversidad"
     bg = false
     CfSpage = ""
@@ -162,20 +162,21 @@ googleAnalytics = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Workshops viernes 14"
-    #subtitle = "Who's saying what"
+    #subtitle = "14:00 - 16:30 / 17:00 - 19:30"
     bg = true
 
     [params.portfolio.modal]
       client = "Client"
       date = "Date"
       category = "Category"
-      buttonText = "Close project"
+      buttonText = "cerrar"
 
   # Schedule section
   [params.schedule]
-    enable = false
-    title = "Programa: próximamente"
-    bg = false
+    enable = true
+    title = "Horario workshops"
+    subtitle = ""
+    bg = true
 
   # Important Dates [About] section
   [params.about]
