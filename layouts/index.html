@@ -39,6 +39,10 @@
       {{ partial "schedule.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.schedule2.enable }}
+      {{ partial "schedule2.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.about.enable }}
       {{ partial "about.html" . }}
     {{ end }}

@@ -118,7 +118,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Asequible"
-      description = "Entre $7000 y $15000 + opción de becas"
+      description = "Entre $5000 y $10000 + opción de becas"
       url = "#"
 
     [[params.services.row.list]]
@@ -174,9 +174,16 @@ googleAnalytics = ""
   # Schedule section
   [params.schedule]
     enable = true
-    title = "Horario workshops"
+    title = "Horarios workshops"
     subtitle = ""
     bg = true
+
+    # Schedule section
+    [params.schedule2]
+      enable = true
+      title = "Programa sábado 15"
+      subtitle = ""
+      bg = false
 
   # Important Dates [About] section
   [params.about]
