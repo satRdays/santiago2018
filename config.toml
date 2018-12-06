@@ -239,12 +239,12 @@ googleAnalytics = ""
   [params.team]
     enable = true
     # Possibility to center items
-    #center = true
-    title = "Equipo"
-    #subtitle = "El equipo detrás de satRday Santiago"
+    center = true
+    title = "Equipo organizador"
+    #subtitle = "E"
     bg = false
     description = ""
-    speakers = "Speakers (próximamente)"
+    speakers = "Speakers"
 
 
     # All team member's pictures are stored under 'static/img/team'.
